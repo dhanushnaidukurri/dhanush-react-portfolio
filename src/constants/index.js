@@ -98,6 +98,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "5-62, Rajavaram, Andhra Pradesh, India",
-  phoneNo: "+91 9618873464",
+  phoneNo: "+91 8688605733",
   email: "dhanushkurri1234@gmail.com",
 };
